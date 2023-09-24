@@ -1,0 +1,14 @@
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\bin\Debug\net7.0\CircleAreaCalculator.exe
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\bin\Debug\net7.0\CircleAreaCalculator.deps.json
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\bin\Debug\net7.0\CircleAreaCalculator.runtimeconfig.json
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\bin\Debug\net7.0\CircleAreaCalculator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\bin\Debug\net7.0\CircleAreaCalculator.pdb
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.AssemblyInfo.cs
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\refint\CircleAreaCalculator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.pdb
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\CircleAreaCalculator.genruntimeconfig.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\CircleAreaCalculator\obj\Debug\net7.0\ref\CircleAreaCalculator.dll
