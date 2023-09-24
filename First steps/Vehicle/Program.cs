@@ -118,18 +118,18 @@ namespace Vehicle
     {
         static void Main()
         {
-            Car myCar = new("Citroen", "Picasso", 2002, 4, 10, 225, 5);
+            Car myCar = new("Citroen", "Picasso", 2002, 4, 20, 225, 5);
             Motorcycle myMotorcycle = new("Suzuki", "Hayabusa", 2018, 2, 5, 80, "Sportbike");
 
             Console.WriteLine("Car Information:");
             myCar.DisplayInfo();
-            decimal carConsumption = myCar.Consumption(10, 225);
-            Console.WriteLine($"The car {myCar.make} {myCar.Model} has a consumption rate of {myCar.Consumption} km/L");
+            decimal carConsumption = myCar.Consumption(20, 225);
+            Console.WriteLine($"The car {myCar.make} {myCar.Model} has a consumption rate of {carConsumption} km/L");
 
             Console.WriteLine("\nMotorcycle Information:");
             myMotorcycle.DisplayInfo();
             decimal motorcicleConsumption = myMotorcycle.Consumption(5, 80);
-            Console.WriteLine($"The motorcicle {myMotorcycle.make} {myMotorcycle.Model} has a consumption rate of {myMotorcycle.Consumption} km/L");
+            Console.WriteLine($"The motorcicle {myMotorcycle.make} {myMotorcycle.Model} has a consumption rate of {motorcicleConsumption} km/L");
         }
     }
 }

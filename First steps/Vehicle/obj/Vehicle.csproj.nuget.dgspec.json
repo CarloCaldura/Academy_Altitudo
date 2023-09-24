@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj": {}
+    "c:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj": {
+    "c:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
+        "projectUniqueName": "c:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
         "projectName": "Vehicle",
-        "projectPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
+        "projectPath": "c:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
         "packagesPath": "C:\\Users\\Crypto.gunner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\obj\\",
+        "outputPath": "c:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
