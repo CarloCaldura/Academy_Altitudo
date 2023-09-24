@@ -10,6 +10,7 @@ namespace Academy_progettino
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }

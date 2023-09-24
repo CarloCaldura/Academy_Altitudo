@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\Vehicle\\Vehicle.csproj",
+      "projectUniqueName": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
       "projectName": "Vehicle",
-      "projectPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\Vehicle\\Vehicle.csproj",
+      "projectPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\Vehicle.csproj",
       "packagesPath": "C:\\Users\\Crypto.gunner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\Vehicle\\obj\\",
+      "outputPath": "C:\\Users\\Crypto.gunner\\source\\repos\\Academy_progettino\\First steps\\Vehicle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
