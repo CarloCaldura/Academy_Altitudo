@@ -1,0 +1,14 @@
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\bin\Debug\net7.0\RectangleAreaCalulator.exe
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\bin\Debug\net7.0\RectangleAreaCalulator.deps.json
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\bin\Debug\net7.0\RectangleAreaCalulator.runtimeconfig.json
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\bin\Debug\net7.0\RectangleAreaCalulator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\bin\Debug\net7.0\RectangleAreaCalulator.pdb
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.AssemblyInfoInputs.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.AssemblyInfo.cs
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.csproj.CoreCompileInputs.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\refint\RectangleAreaCalulator.dll
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.pdb
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\RectangleAreaCalulator.genruntimeconfig.cache
+C:\Users\Crypto.gunner\source\repos\Academy_progettino\RectangleAreaCalulator\obj\Debug\net7.0\ref\RectangleAreaCalulator.dll
