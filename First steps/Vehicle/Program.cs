@@ -6,7 +6,7 @@ using Vehicle;
 namespace Vehicle
 
 {   // Main Class
-    class Vehicle
+    public class Vehicle
     {
         // Fields (private vars)
         public string make;
@@ -61,18 +61,18 @@ namespace Vehicle
         }
 
         // Method to calculate gas consumption
-        public virtual decimal Consumption( decimal fuelquantity, decimal distance) 
+        public virtual decimal Consumption() 
         {
-            if (fuelquantity > 0 & distance > 0) 
+            if (this.fuelquantity > 0 & this.distance > 0) 
             {
-                return distance / fuelquantity;
+                return this.distance / this.fuelquantity;
             }
             return 0;
         }
     }
 
     // Inheritance
-    class Car : Vehicle
+    public class Car : Vehicle
     {
         //Additional property
         public int NumDoors { get; set; }
@@ -93,7 +93,7 @@ namespace Vehicle
     }
 
     // Inheritance
-    class Motorcycle : Vehicle
+    public class Motorcycle : Vehicle
     {
         // additional property
         public string Type { get; set; }
@@ -114,22 +114,24 @@ namespace Vehicle
         }
     }
 
-    class Program
+    public class Program
     {
         static void Main()
         {
+
             Car myCar = new("Citroen", "Picasso", 2002, 4, 20, 225, 5);
             Motorcycle myMotorcycle = new("Suzuki", "Hayabusa", 2018, 2, 5, 80, "Sportbike");
 
             Console.WriteLine("Car Information:");
             myCar.DisplayInfo();
-            decimal carConsumption = myCar.Consumption(20, 225);
+            decimal carConsumption = myCar.Consumption();
             Console.WriteLine($"The car {myCar.make} {myCar.Model} has a consumption rate of {carConsumption} km/L");
 
             Console.WriteLine("\nMotorcycle Information:");
             myMotorcycle.DisplayInfo();
-            decimal motorcicleConsumption = myMotorcycle.Consumption(5, 80);
+            decimal motorcicleConsumption = myMotorcycle.Consumption();
             Console.WriteLine($"The motorcicle {myMotorcycle.make} {myMotorcycle.Model} has a consumption rate of {motorcicleConsumption} km/L");
+
         }
     }
 }
