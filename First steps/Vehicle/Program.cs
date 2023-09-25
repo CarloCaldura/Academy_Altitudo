@@ -132,6 +132,7 @@ namespace Vehicle
             decimal motorcicleConsumption = myMotorcycle.Consumption();
             Console.WriteLine($"The motorcicle {myMotorcycle.make} {myMotorcycle.Model} has a consumption rate of {motorcicleConsumption} km/L");
 
+            //Implementa input parametri con ReadLine
         }
     }
 }
