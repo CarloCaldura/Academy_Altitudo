@@ -42,11 +42,11 @@ namespace Vehicle
         public int Numberofwheels
         { get { return numberofwheels; } set { numberofwheels = value; } }
 
-        public string Fuelquantity
-        { get { return Fuelquantity; } set { Fuelquantity = value; } }
+        public decimal Fuelquantity
+        { get { return fuelquantity; } set { fuelquantity = value; } }
 
-        public int Distance
-        { get { return Distance; } set { Distance = value; } }
+        public decimal Distance
+        { get { return distance; } set { distance = value; } }
 
 
         // Method to display vehicle information
@@ -61,7 +61,7 @@ namespace Vehicle
         }
 
         // Method to calculate gas consumption
-        public virtual decimal Consumption( decimal fuel, decimal distance) 
+        public virtual decimal Consumption( decimal fuelquantity, decimal distance) 
         {
             if (fuelquantity > 0 & distance > 0) 
             {
@@ -133,4 +133,3 @@ namespace Vehicle
         }
     }
 }
-
